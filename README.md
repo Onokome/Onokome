@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onokome
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Frontend Engineering
+- 🌱 Frontend Engineer
   
 
 <!---
